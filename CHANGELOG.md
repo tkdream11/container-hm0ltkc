@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Feb 21 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update header text to 'Header By Tarkeshwer' ([@tkdream11](https://github.com/tkdream11))
+
+#### Authors: 1
+
+- [@tkdream11](https://github.com/tkdream11)
+
+---
+
 # v0.0.1 (Sat Feb 21 2026)
 
 :tada: This release contains work from a new contributor! :tada:
